@@ -87,9 +87,9 @@ $$
 - 每位专家的作品数量适中：
   易知每个专家平均审核$\frac{K \times N}{M}=120$个作品，则有：
   $$
-  \begin{equation}
+
     \sum_{j=1}^{N} S_{ij} = 120 \qquad\forall i \in \{ 1,2,\ldots,M\}
-  \end{equation}
+ 
   $$
 
 
